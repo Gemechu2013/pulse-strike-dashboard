@@ -1,0 +1,501 @@
+MemberID,Location,MonthsEnrolled,TeachStyle,CombatPref,RhythmPref,FlowStateScore,FatigueScore,EnergyPeak,MusicVolRating,FloorQualRating,InstructorRating,SocialAtmRating,OverallSatisfaction,Churned,OpenFeedback
+M0001,Westside,6,Expressive,5.5,6.7,7.5,6.4,Morning,2,5,4,3,6.8,0,Class is okay but could be better
+M0002,Eastbay,1,Technical,6.0,6.7,5.9,4.1,Afternoon,2,2,3,4,7.0,0,Flow during capoeira sequences is incredible
+M0003,Northpark,9,Expressive,7.5,3.6,8.6,8.5,Evening,5,1,5,5,9.7,0,Really improved my coordination
+M0004,Northpark,1,Technical,3.1,7.8,5.1,6.8,Evening,2,3,3,2,5.8,0,Some days are great some are not
+M0005,Downtown,5,Technical,10.0,1.0,7.3,1.8,Morning,1,5,4,1,6.2,0,Tempo changes are confusing sometimes
+M0006,Downtown,4,Expressive,9.8,1.0,6.3,7.2,Afternoon,4,2,4,1,5.9,0,Music could be adjusted slightly
+M0007,Downtown,12,Expressive,6.9,3.9,6.6,4.4,Morning,3,1,3,4,6.7,0,Music could be adjusted slightly
+M0008,Eastbay,3,Mixed,2.8,6.9,7.1,5.9,Morning,4,3,4,1,6.1,0,Getting used to the pace slowly
+M0009,Northpark,6,Expressive,7.1,2.0,6.5,7.5,Evening,2,3,4,1,6.2,0,Music could be adjusted slightly
+M0010,Northpark,2,Expressive,1.6,6.5,8.1,4.4,Evening,3,5,3,4,8.2,0,Community feels very welcoming and warm
+M0011,Downtown,3,Expressive,1.3,6.1,9.7,2.2,Evening,5,3,5,5,9.2,0,Great atmosphere overall
+M0012,Eastbay,5,Technical,3.3,3.8,5.0,8.5,Morning,4,2,4,3,5.8,0,Still figuring out if this style suits me
+M0013,Eastbay,9,Expressive,5.2,5.7,7.0,7.8,Evening,3,3,4,3,6.7,0,Getting used to the pace slowly
+M0014,Downtown,2,Technical,8.8,1.4,6.6,5.3,Afternoon,3,4,4,2,6.5,0,Would like more variety in the sessions
+M0015,Downtown,10,Mixed,7.5,1.8,6.6,7.2,Afternoon,3,2,4,5,7.6,0,Flow during capoeira sequences is incredible
+M0016,Downtown,8,Technical,7.7,1.8,4.3,4.8,Afternoon,1,1,3,2,5.1,0,Some days are great some are not
+M0017,Westside,2,Expressive,4.8,5.5,4.7,5.7,Morning,4,1,5,3,6.6,0,Still figuring out if this style suits me
+M0018,Westside,11,Technical,4.1,5.7,5.2,5.2,Evening,3,5,5,4,7.4,0,Instructor is amazing and motivating
+M0019,Westside,5,Mixed,4.3,3.7,6.4,4.8,Afternoon,4,5,1,1,4.4,0,Would like more variety in the sessions
+M0020,Downtown,7,Expressive,9.9,1.5,8.8,6.2,Morning,3,4,4,3,8.1,0,Flow during capoeira sequences is incredible
+M0021,Northpark,8,Expressive,1.4,9.1,6.1,3.1,Morning,5,1,4,5,7.8,0,Really improved my coordination
+M0022,Downtown,1,Technical,8.8,1.6,5.9,5.0,Morning,5,1,1,3,4.7,0,Still figuring out if this style suits me
+M0023,Downtown,6,Mixed,6.2,5.1,5.6,6.1,Morning,5,1,5,5,8.6,0,Really improved my coordination
+M0024,Westside,1,Technical,4.9,3.9,5.7,9.2,Afternoon,2,1,2,5,7.3,0,Love the energy in class!
+M0025,Westside,2,Mixed,7.5,4.3,4.9,3.2,Evening,3,3,2,5,6.0,0,Would like more variety in the sessions
+M0026,Northpark,1,Technical,5.4,4.4,5.3,6.5,Morning,2,2,5,2,6.6,0,Some days are great some are not
+M0027,Downtown,11,Technical,8.9,2.4,4.5,6.8,Morning,4,2,4,4,6.6,0,Class is okay but could be better
+M0028,Westside,5,Technical,9.1,2.0,7.9,1.7,Afternoon,2,4,2,3,5.8,0,Class is okay but could be better
+M0029,Northpark,10,Expressive,4.8,3.6,7.0,6.3,Evening,4,3,3,4,7.0,0,Love the energy in class!
+M0030,Downtown,9,Expressive,3.5,7.3,8.1,7.3,Afternoon,4,1,3,1,5.9,0,Music could be adjusted slightly
+M0031,Northpark,6,Technical,6.3,4.2,5.4,6.7,Afternoon,4,1,1,3,4.8,1,Feel exhausted before class even ends
+M0032,Downtown,11,Mixed,9.2,1.0,8.4,5.3,Afternoon,2,5,5,4,8.4,0,Great atmosphere overall
+M0033,Downtown,11,Expressive,2.9,7.0,7.6,6.2,Afternoon,3,5,5,4,8.2,0,Music selection is perfect
+M0034,Eastbay,1,Expressive,6.6,3.3,5.6,5.8,Morning,2,4,2,1,3.5,0,Class feels too technical and stiff
+M0035,Eastbay,1,Expressive,6.7,4.5,7.6,2.1,Evening,3,1,4,5,7.6,0,Instructor explains everything clearly
+M0036,Eastbay,2,Expressive,7.6,3.3,4.0,5.9,Evening,3,4,5,3,6.4,0,Interested in more beginner-friendly options
+M0037,Westside,9,Expressive,2.2,7.8,10.0,4.8,Afternoon,4,3,2,3,7.0,0,Best workout I have ever had
+M0038,Downtown,3,Technical,7.4,1.0,6.5,4.1,Evening,2,2,2,1,5.4,0,Tempo changes are confusing sometimes
+M0039,Northpark,1,Technical,9.2,1.5,9.8,10.0,Evening,3,1,5,5,9.4,0,Best workout I have ever had
+M0040,Westside,5,Mixed,2.6,8.5,5.2,8.0,Morning,5,3,2,3,5.2,0,Music could be adjusted slightly
+M0041,Downtown,7,Mixed,3.1,10.0,5.6,3.2,Afternoon,3,1,1,3,4.2,0,Some days are great some are not
+M0042,Westside,6,Expressive,9.7,1.9,9.0,6.2,Morning,5,5,1,3,6.5,0,Still figuring out if this style suits me
+M0043,Downtown,12,Technical,2.6,4.6,2.3,8.4,Morning,2,4,5,5,5.4,0,Interested in more beginner-friendly options
+M0044,Eastbay,1,Expressive,8.7,1.4,6.6,2.5,Evening,2,5,4,1,5.9,0,Tempo changes are confusing sometimes
+M0045,Downtown,5,Expressive,5.4,7.3,6.8,5.7,Evening,2,2,1,3,4.8,0,Tempo changes are confusing sometimes
+M0046,Northpark,5,Technical,3.2,7.7,5.8,5.7,Evening,3,5,1,4,5.5,0,Getting used to the pace slowly
+M0047,Westside,6,Technical,8.8,1.7,4.6,3.0,Evening,1,1,5,5,7.5,0,Flow during capoeira sequences is incredible
+M0048,Westside,3,Mixed,5.0,6.4,6.8,6.3,Morning,3,5,3,2,5.4,1,Instructor moves too fast for beginners
+M0049,Westside,5,Expressive,5.6,3.5,8.8,7.7,Morning,3,1,2,1,5.9,0,Class is okay but could be better
+M0050,Downtown,7,Technical,4.2,6.5,5.6,8.5,Evening,4,2,1,4,4.6,0,Interested in more beginner-friendly options
+M0051,Eastbay,5,Technical,6.3,3.3,6.1,5.0,Afternoon,4,5,3,3,6.5,0,Class is okay but could be better
+M0052,Northpark,5,Technical,2.5,7.5,6.4,10.0,Evening,3,4,4,2,7.0,0,Great atmosphere overall
+M0053,Eastbay,5,Expressive,4.5,6.7,5.0,1.4,Evening,5,4,3,1,4.0,0,Music is way too loud during class
+M0054,Eastbay,10,Technical,9.7,1.0,4.8,6.2,Evening,4,4,5,5,7.8,0,Flow during capoeira sequences is incredible
+M0055,Northpark,10,Technical,3.3,8.6,8.2,2.7,Evening,3,5,4,2,6.9,0,Would like more variety in the sessions
+M0056,Eastbay,3,Mixed,6.9,2.5,5.6,5.7,Morning,1,5,4,2,5.9,0,Interested in more beginner-friendly options
+M0057,Downtown,1,Technical,3.9,6.5,4.0,4.5,Evening,5,5,3,4,5.4,0,Getting used to the pace slowly
+M0058,Downtown,5,Expressive,8.0,1.0,6.5,6.5,Evening,2,1,5,1,7.6,0,Instructor explains everything clearly
+M0059,Downtown,9,Technical,2.2,8.9,5.6,5.2,Afternoon,3,2,1,4,4.5,0,Some days are great some are not
+M0060,Westside,1,Technical,9.7,2.5,3.7,3.8,Evening,3,4,3,4,5.7,0,Would like more variety in the sessions
+M0061,Westside,3,Technical,5.1,4.1,6.0,4.0,Afternoon,5,1,1,3,4.2,0,Music could be adjusted slightly
+M0062,Downtown,4,Mixed,3.1,5.2,7.3,9.4,Evening,4,4,3,5,6.8,0,Still figuring out if this style suits me
+M0063,Eastbay,1,Mixed,1.7,8.7,4.9,6.4,Morning,4,1,1,2,3.9,0,Instructor moves too fast for beginners
+M0064,Westside,1,Mixed,2.5,9.7,7.3,2.1,Afternoon,4,5,3,1,5.9,0,Getting used to the pace slowly
+M0065,Downtown,8,Expressive,5.7,2.1,7.2,6.6,Morning,2,4,4,5,6.6,1,Floor is slippery and dangerous
+M0066,Westside,2,Expressive,4.0,4.3,7.6,5.1,Evening,5,5,2,5,7.6,0,The rhythm work really helps me connect
+M0067,Downtown,12,Technical,8.5,1.0,5.9,5.5,Morning,5,4,4,1,4.7,0,Tempo changes are confusing sometimes
+M0068,Eastbay,8,Technical,4.9,3.9,2.8,7.1,Morning,4,3,1,5,3.9,1,Scheduling is very inconvenient
+M0069,Downtown,7,Mixed,3.2,5.6,4.1,7.9,Afternoon,4,1,5,3,6.9,0,Getting used to the pace slowly
+M0070,Eastbay,10,Technical,6.6,1.0,6.6,3.8,Evening,1,3,4,5,8.8,0,Instructor explains everything clearly
+M0071,Northpark,10,Technical,7.4,3.5,6.3,5.4,Morning,1,1,2,3,5.4,0,Music could be adjusted slightly
+M0072,Downtown,2,Technical,2.5,8.0,3.9,4.4,Morning,3,2,1,2,2.6,0,Feel exhausted before class even ends
+M0073,Downtown,6,Technical,2.5,5.0,4.2,6.7,Evening,3,4,4,2,5.9,0,Some days are great some are not
+M0074,Eastbay,6,Technical,1.3,10.0,7.5,5.0,Afternoon,5,2,3,4,7.6,0,Instructor is amazing and motivating
+M0075,Northpark,3,Expressive,7.6,4.9,6.3,5.6,Evening,5,2,5,3,7.1,0,Flow during capoeira sequences is incredible
+M0076,Northpark,11,Expressive,7.0,1.9,6.9,5.0,Morning,2,1,1,2,4.5,0,Tempo changes are confusing sometimes
+M0077,Northpark,2,Mixed,5.3,6.4,8.3,5.3,Evening,2,3,4,5,8.2,0,Great atmosphere overall
+M0078,Downtown,12,Mixed,8.6,1.0,5.7,8.9,Morning,1,5,1,1,3.7,0,Class feels too technical and stiff
+M0079,Westside,1,Technical,8.3,2.0,7.3,10.0,Morning,3,1,3,1,6.0,1,Feel exhausted before class even ends
+M0080,Downtown,6,Technical,6.3,2.4,2.4,6.3,Evening,1,5,2,3,3.3,0,Scheduling is very inconvenient
+M0081,Eastbay,12,Expressive,8.8,4.5,6.3,5.3,Afternoon,1,2,4,4,6.9,0,Music could be adjusted slightly
+M0082,Northpark,5,Expressive,2.9,6.7,6.4,2.3,Evening,3,5,1,5,6.1,0,Interested in more beginner-friendly options
+M0083,Westside,11,Technical,2.0,8.2,6.0,4.0,Afternoon,2,3,1,3,4.1,0,Class is okay but could be better
+M0084,Downtown,9,Expressive,3.4,5.6,6.3,5.2,Afternoon,3,1,1,1,4.0,0,Too much repetition in the routine
+M0085,Westside,1,Expressive,1.5,10.0,5.5,4.1,Afternoon,4,3,2,3,4.3,0,Would like more variety in the sessions
+M0086,Westside,7,Expressive,5.8,7.0,7.5,4.3,Evening,4,3,1,5,6.4,0,Tempo changes are confusing sometimes
+M0087,Northpark,5,Expressive,9.4,3.0,6.7,8.7,Afternoon,4,1,5,2,6.2,0,Getting used to the pace slowly
+M0088,Northpark,5,Technical,1.4,10.0,7.9,5.6,Afternoon,5,3,5,5,9.4,0,Love the energy in class!
+M0089,Eastbay,2,Mixed,2.1,7.0,5.4,5.7,Afternoon,2,4,1,2,3.4,0,Locker room is always overcrowded
+M0090,Westside,11,Mixed,5.1,6.1,2.9,4.2,Afternoon,2,4,5,2,4.4,0,Getting used to the pace slowly
+M0091,Downtown,3,Technical,9.4,1.0,3.5,7.9,Afternoon,5,4,4,2,4.8,0,Tempo changes are confusing sometimes
+M0092,Northpark,7,Mixed,3.8,8.2,5.8,5.1,Evening,1,5,5,3,8.0,0,Instructor explains everything clearly
+M0093,Northpark,6,Expressive,5.6,6.1,7.3,4.5,Afternoon,4,3,1,1,5.0,0,Interested in more beginner-friendly options
+M0094,Northpark,12,Mixed,1.4,7.6,8.2,2.3,Evening,4,1,3,3,6.1,0,Still figuring out if this style suits me
+M0095,Northpark,2,Mixed,2.3,9.1,4.9,5.4,Morning,1,1,4,1,4.6,0,Would like more variety in the sessions
+M0096,Westside,6,Expressive,9.9,1.1,7.3,4.4,Evening,3,5,2,5,6.7,0,Class is okay but could be better
+M0097,Westside,2,Technical,9.7,1.0,5.6,8.9,Evening,3,1,1,4,6.1,0,Tempo changes are confusing sometimes
+M0098,Westside,2,Technical,1.0,10.0,5.3,9.2,Morning,2,4,2,5,5.4,0,Class is okay but could be better
+M0099,Downtown,2,Expressive,9.6,1.0,6.3,3.0,Evening,5,3,3,3,5.7,0,Music could be adjusted slightly
+M0100,Downtown,11,Expressive,6.8,1.9,7.0,3.3,Afternoon,2,1,2,3,6.7,0,Still figuring out if this style suits me
+M0101,Downtown,3,Technical,8.8,1.0,6.9,4.9,Evening,3,1,1,1,4.5,0,Class is okay but could be better
+M0102,Northpark,2,Technical,5.1,4.7,2.5,3.9,Evening,1,2,1,3,3.6,0,Feel exhausted before class even ends
+M0103,Westside,4,Mixed,5.6,5.1,5.3,5.9,Afternoon,2,2,3,2,4.9,0,Interested in more beginner-friendly options
+M0104,Westside,9,Mixed,5.4,2.6,5.5,4.8,Morning,4,2,1,3,4.5,0,Music could be adjusted slightly
+M0105,Eastbay,6,Expressive,7.0,3.3,7.4,6.1,Afternoon,4,3,3,1,6.6,0,Music could be adjusted slightly
+M0106,Downtown,1,Technical,2.3,8.6,4.3,7.5,Morning,1,4,3,1,4.3,0,Class is okay but could be better
+M0107,Westside,8,Technical,1.3,10.0,3.6,3.4,Morning,3,4,1,2,3.8,0,I feel lost during the combat sections
+M0108,Northpark,12,Technical,3.8,4.6,4.7,7.5,Morning,4,4,5,1,5.9,0,Music could be adjusted slightly
+M0109,Downtown,7,Mixed,7.3,2.2,6.2,4.0,Afternoon,4,3,3,4,6.0,0,Getting used to the pace slowly
+M0110,Downtown,10,Technical,2.8,7.6,7.1,9.8,Evening,5,3,1,5,6.1,0,Still figuring out if this style suits me
+M0111,Downtown,3,Expressive,7.1,4.6,5.8,8.7,Morning,2,2,5,3,7.6,1,Instructor moves too fast for beginners
+M0112,Downtown,1,Technical,9.7,1.0,8.0,5.3,Morning,3,1,3,4,7.7,0,Flow during capoeira sequences is incredible
+M0113,Eastbay,5,Expressive,1.8,10.0,7.7,3.6,Evening,2,5,5,3,8.0,0,Instructor is amazing and motivating
+M0114,Eastbay,4,Expressive,7.1,1.0,8.7,3.2,Morning,3,5,4,4,7.4,0,Music selection is perfect
+M0115,Northpark,10,Mixed,5.0,3.1,4.0,7.2,Morning,4,1,4,3,4.7,0,Interested in more beginner-friendly options
+M0116,Eastbay,8,Technical,8.8,1.7,6.8,5.4,Morning,5,2,5,2,6.4,0,Music could be adjusted slightly
+M0117,Eastbay,1,Technical,2.6,5.3,6.4,7.4,Evening,2,1,3,1,5.1,0,Tempo changes are confusing sometimes
+M0118,Downtown,10,Technical,7.2,1.0,2.8,9.9,Evening,4,1,1,1,2.2,1,Floor is slippery and dangerous
+M0119,Eastbay,1,Mixed,8.5,1.0,3.9,4.0,Afternoon,3,5,2,2,3.2,0,Instructor moves too fast for beginners
+M0120,Westside,12,Mixed,9.5,1.7,3.9,3.0,Evening,2,2,1,4,4.7,0,Tempo changes are confusing sometimes
+M0121,Eastbay,4,Expressive,7.1,1.0,4.6,5.9,Afternoon,2,3,2,5,4.9,0,Tempo changes are confusing sometimes
+M0122,Eastbay,8,Expressive,5.5,4.8,6.7,7.8,Evening,4,5,2,4,5.5,1,Scheduling is very inconvenient
+M0123,Westside,5,Expressive,6.6,4.9,7.7,3.6,Evening,2,3,3,1,6.1,0,Tempo changes are confusing sometimes
+M0124,Downtown,2,Technical,8.8,1.0,3.7,5.6,Evening,5,2,5,5,7.3,0,Love the energy in class!
+M0125,Downtown,6,Mixed,6.1,3.3,5.7,8.2,Afternoon,5,1,1,3,5.7,0,Some days are great some are not
+M0126,Westside,5,Expressive,1.3,9.3,6.6,2.2,Morning,4,4,5,5,8.6,0,Best workout I have ever had
+M0127,Eastbay,2,Expressive,9.4,1.0,7.5,6.0,Afternoon,3,4,4,4,8.5,0,Instructor explains everything clearly
+M0128,Eastbay,11,Expressive,7.2,4.9,5.5,4.4,Evening,4,2,3,2,4.7,0,Still figuring out if this style suits me
+M0129,Downtown,11,Technical,7.1,1.2,5.2,5.7,Afternoon,5,4,3,3,6.7,0,Music could be adjusted slightly
+M0130,Westside,11,Technical,2.9,7.0,4.6,6.9,Evening,1,3,4,4,5.4,0,Music could be adjusted slightly
+M0131,Westside,3,Mixed,6.9,3.4,6.5,5.9,Evening,1,4,1,3,4.8,0,Interested in more beginner-friendly options
+M0132,Downtown,9,Technical,4.5,4.9,4.5,3.5,Morning,2,2,4,5,6.9,0,Tempo changes are confusing sometimes
+M0133,Downtown,7,Expressive,6.9,1.0,7.7,4.5,Evening,2,2,1,1,4.0,0,I feel lost during the combat sections
+M0134,Westside,7,Technical,2.0,7.8,5.9,8.4,Evening,1,3,2,4,5.3,0,Still figuring out if this style suits me
+M0135,Eastbay,11,Expressive,6.9,4.5,8.5,6.2,Evening,5,4,3,2,6.3,0,Music could be adjusted slightly
+M0136,Westside,6,Technical,10.0,1.2,4.4,7.2,Evening,2,4,1,5,4.6,0,Would like more variety in the sessions
+M0137,Westside,8,Expressive,1.4,9.1,7.2,6.0,Evening,4,1,5,4,8.9,0,Really improved my coordination
+M0138,Northpark,4,Mixed,9.8,1.0,5.7,7.1,Morning,4,5,5,2,6.7,0,Getting used to the pace slowly
+M0139,Westside,8,Technical,4.7,5.9,4.6,4.7,Evening,5,2,3,4,5.5,0,Class is okay but could be better
+M0140,Eastbay,4,Expressive,8.8,1.0,7.5,4.0,Morning,2,1,4,5,6.7,0,Tempo changes are confusing sometimes
+M0141,Eastbay,8,Expressive,8.0,2.5,6.8,7.0,Evening,4,2,4,4,7.6,0,Flow during capoeira sequences is incredible
+M0142,Downtown,9,Expressive,6.1,4.1,9.6,7.8,Evening,2,1,1,3,7.0,0,Great atmosphere overall
+M0143,Westside,3,Mixed,7.6,1.0,5.5,3.7,Afternoon,2,5,4,5,6.3,0,Some days are great some are not
+M0144,Westside,3,Mixed,8.9,1.0,6.2,4.3,Evening,4,1,3,4,6.5,0,Interested in more beginner-friendly options
+M0145,Downtown,11,Technical,4.6,5.9,2.1,5.2,Afternoon,1,2,1,1,2.1,0,Class feels too technical and stiff
+M0146,Downtown,2,Technical,3.9,5.8,4.8,8.7,Afternoon,4,4,2,4,5.7,0,Would like more variety in the sessions
+M0147,Northpark,10,Technical,7.0,1.7,5.4,6.6,Afternoon,5,2,4,3,5.9,0,Would like more variety in the sessions
+M0148,Westside,3,Expressive,8.3,1.0,6.0,2.9,Evening,3,3,4,2,5.8,1,Instructor moves too fast for beginners
+M0149,Downtown,3,Technical,7.9,1.6,5.2,5.3,Evening,4,3,1,2,3.8,0,Floor is slippery and dangerous
+M0150,Downtown,5,Expressive,8.2,4.2,9.0,5.0,Evening,2,3,5,2,8.9,0,Really improved my coordination
+M0151,Eastbay,5,Expressive,4.9,4.3,6.7,3.2,Morning,2,3,4,1,6.7,0,Music could be adjusted slightly
+M0152,Downtown,2,Technical,8.4,1.6,7.1,5.3,Evening,4,5,3,3,6.5,0,Would like more variety in the sessions
+M0153,Downtown,12,Mixed,2.1,8.1,8.5,4.9,Evening,3,4,4,5,9.2,0,Instructor is amazing and motivating
+M0154,Westside,10,Technical,5.9,2.4,4.5,4.8,Afternoon,4,4,2,2,3.1,0,Feel exhausted before class even ends
+M0155,Eastbay,6,Technical,1.1,6.3,4.7,4.7,Morning,3,2,4,3,6.3,0,Interested in more beginner-friendly options
+M0156,Downtown,5,Mixed,3.9,4.6,3.1,8.4,Afternoon,3,1,5,4,5.6,0,Music could be adjusted slightly
+M0157,Northpark,6,Expressive,4.3,6.1,4.1,4.8,Evening,5,2,4,1,5.7,0,Getting used to the pace slowly
+M0158,Northpark,1,Expressive,4.6,5.5,7.4,5.6,Evening,2,2,1,3,5.0,0,Interested in more beginner-friendly options
+M0159,Downtown,5,Expressive,7.3,3.8,5.0,5.4,Evening,2,2,4,3,5.7,0,Interested in more beginner-friendly options
+M0160,Northpark,9,Technical,4.5,5.6,5.2,4.5,Afternoon,3,2,5,5,7.9,0,Instructor explains everything clearly
+M0161,Westside,12,Mixed,5.0,4.8,8.9,5.7,Evening,2,4,1,3,6.6,0,Still figuring out if this style suits me
+M0162,Northpark,10,Mixed,3.1,6.0,5.0,5.6,Morning,1,1,3,5,6.1,0,Some days are great some are not
+M0163,Northpark,2,Expressive,4.4,6.9,8.5,5.7,Afternoon,3,2,1,1,5.4,0,Would like more variety in the sessions
+M0164,Westside,1,Technical,3.0,5.6,7.6,3.8,Evening,2,4,2,1,5.6,0,Class is okay but could be better
+M0165,Downtown,10,Expressive,1.7,6.6,6.6,5.1,Morning,1,2,1,4,5.7,0,Class is okay but could be better
+M0166,Eastbay,11,Expressive,6.4,4.5,7.2,7.0,Evening,5,3,3,5,7.2,0,Love the energy in class!
+M0167,Westside,9,Technical,7.0,1.0,3.5,5.1,Morning,2,2,4,5,6.4,1,Not enough rest time between routines
+M0168,Downtown,10,Mixed,6.6,7.0,7.8,5.8,Evening,1,2,1,2,6.0,0,Class is okay but could be better
+M0169,Downtown,9,Technical,5.2,4.9,5.0,5.8,Afternoon,4,5,1,2,3.3,0,I feel lost during the combat sections
+M0170,Northpark,9,Mixed,4.4,6.1,4.5,6.3,Afternoon,4,3,1,4,4.0,0,Class feels too technical and stiff
+M0171,Northpark,6,Expressive,8.8,1.0,8.0,6.6,Morning,1,1,1,1,5.0,0,Music could be adjusted slightly
+M0172,Downtown,8,Technical,5.7,3.8,5.7,5.2,Morning,3,2,3,2,4.9,0,Still figuring out if this style suits me
+M0173,Westside,11,Expressive,5.3,4.1,5.3,3.7,Evening,3,1,5,3,5.9,1,I feel lost during the combat sections
+M0174,Downtown,1,Mixed,1.2,8.0,8.2,3.1,Afternoon,2,3,5,1,8.0,0,Love the energy in class!
+M0175,Northpark,10,Mixed,4.1,6.8,6.2,7.5,Evening,4,2,1,3,3.8,0,Instructor moves too fast for beginners
+M0176,Downtown,4,Mixed,4.4,4.9,6.2,7.0,Evening,3,5,3,5,6.7,0,Would like more variety in the sessions
+M0177,Northpark,1,Expressive,4.6,6.9,7.7,6.8,Morning,3,4,3,1,6.4,0,Interested in more beginner-friendly options
+M0178,Westside,8,Expressive,6.2,7.8,4.3,7.1,Afternoon,4,5,1,4,4.5,0,Class is okay but could be better
+M0179,Eastbay,1,Mixed,5.8,3.8,5.4,5.2,Evening,5,5,2,5,5.7,0,Music could be adjusted slightly
+M0180,Downtown,3,Technical,6.5,3.7,6.2,4.3,Evening,3,4,1,5,5.2,0,Music could be adjusted slightly
+M0181,Westside,4,Expressive,7.9,2.7,7.5,3.5,Evening,1,4,2,3,6.3,0,Would like more variety in the sessions
+M0182,Downtown,8,Technical,8.3,4.4,6.1,3.3,Afternoon,2,4,1,5,5.2,0,Getting used to the pace slowly
+M0183,Eastbay,6,Mixed,7.5,2.4,6.1,7.9,Evening,3,2,2,2,5.2,0,Class is okay but could be better
+M0184,Eastbay,10,Mixed,9.6,1.0,6.1,4.5,Morning,3,1,2,1,4.7,0,Class is okay but could be better
+M0185,Downtown,12,Technical,1.2,6.9,7.1,7.6,Evening,5,1,1,2,5.0,0,Getting used to the pace slowly
+M0186,Northpark,7,Mixed,2.8,7.1,6.3,5.1,Evening,1,4,2,3,5.2,0,Getting used to the pace slowly
+M0187,Eastbay,8,Mixed,1.1,8.2,6.5,4.1,Morning,2,5,4,3,7.9,0,Music selection is perfect
+M0188,Northpark,2,Technical,6.8,6.2,5.9,3.3,Afternoon,3,3,5,1,6.5,0,Would like more variety in the sessions
+M0189,Westside,10,Expressive,9.1,3.6,6.8,4.3,Morning,2,4,3,5,7.1,0,Flow during capoeira sequences is incredible
+M0190,Downtown,11,Mixed,3.2,5.2,6.9,8.3,Afternoon,4,5,2,4,6.4,0,Tempo changes are confusing sometimes
+M0191,Downtown,8,Technical,9.3,1.0,6.0,3.3,Evening,3,5,2,3,5.0,0,Getting used to the pace slowly
+M0192,Eastbay,3,Expressive,1.5,8.6,3.2,9.7,Afternoon,3,2,3,1,3.6,0,Too much repetition in the routine
+M0193,Eastbay,7,Technical,9.4,2.7,6.0,3.8,Morning,4,2,2,4,7.0,0,Instructor explains everything clearly
+M0194,Northpark,3,Mixed,4.2,5.9,6.6,7.0,Afternoon,5,1,3,5,6.7,0,Tempo changes are confusing sometimes
+M0195,Westside,7,Mixed,1.9,7.1,7.0,5.2,Evening,3,1,1,3,5.3,0,Tempo changes are confusing sometimes
+M0196,Westside,11,Mixed,5.4,4.5,5.9,4.9,Evening,2,3,4,1,5.5,0,Some days are great some are not
+M0197,Northpark,12,Expressive,3.3,5.8,9.0,3.0,Afternoon,1,3,4,1,6.8,0,Still figuring out if this style suits me
+M0198,Eastbay,2,Mixed,3.6,7.3,5.4,5.3,Morning,2,3,5,1,6.3,0,Interested in more beginner-friendly options
+M0199,Eastbay,10,Mixed,3.8,5.1,3.5,3.2,Evening,5,3,2,3,4.2,0,Tempo changes are confusing sometimes
+M0200,Northpark,6,Technical,8.2,1.0,3.4,2.1,Evening,1,5,5,4,6.8,0,Getting used to the pace slowly
+M0201,Northpark,3,Mixed,5.9,5.8,4.9,5.7,Afternoon,2,5,1,1,3.9,0,Locker room is always overcrowded
+M0202,Downtown,3,Technical,3.8,5.0,6.9,4.2,Morning,2,1,4,5,8.3,0,Instructor is amazing and motivating
+M0203,Downtown,9,Expressive,6.5,1.3,7.2,8.9,Morning,4,2,1,1,4.1,0,Would like more variety in the sessions
+M0204,Eastbay,7,Technical,7.4,2.7,3.6,7.5,Morning,5,2,1,4,4.3,0,Class is okay but could be better
+M0205,Northpark,5,Technical,3.5,6.0,3.6,8.9,Afternoon,4,4,2,3,4.5,0,Still figuring out if this style suits me
+M0206,Downtown,12,Technical,4.7,6.1,3.9,4.1,Evening,1,5,1,1,2.4,0,Music is way too loud during class
+M0207,Downtown,10,Expressive,2.1,8.4,4.2,5.8,Afternoon,4,3,4,1,4.7,0,Would like more variety in the sessions
+M0208,Northpark,7,Technical,2.6,7.4,4.9,1.0,Evening,5,3,5,5,6.7,0,Still figuring out if this style suits me
+M0209,Downtown,9,Mixed,7.1,2.8,5.3,4.9,Afternoon,3,4,4,5,7.4,0,Best workout I have ever had
+M0210,Downtown,1,Technical,2.6,6.3,5.3,5.7,Evening,3,2,2,1,4.6,0,Interested in more beginner-friendly options
+M0211,Westside,7,Technical,5.7,4.4,6.3,5.8,Evening,1,3,4,1,6.7,0,Getting used to the pace slowly
+M0212,Northpark,6,Expressive,7.4,3.9,7.3,5.4,Morning,3,2,3,5,7.3,0,Community feels very welcoming and warm
+M0213,Northpark,10,Mixed,2.0,6.5,3.4,5.6,Afternoon,4,4,5,4,6.5,0,Would like more variety in the sessions
+M0214,Downtown,12,Technical,6.1,3.9,5.2,1.0,Evening,1,2,3,2,5.7,0,Would like more variety in the sessions
+M0215,Northpark,9,Expressive,3.3,8.3,6.0,6.0,Morning,5,2,3,2,5.2,0,Class is okay but could be better
+M0216,Downtown,1,Mixed,9.7,1.1,5.4,6.5,Afternoon,1,2,2,1,3.8,0,Scheduling is very inconvenient
+M0217,Westside,4,Expressive,5.4,6.6,6.1,8.2,Afternoon,1,3,1,5,5.3,1,Instructor moves too fast for beginners
+M0218,Northpark,9,Technical,8.3,1.0,3.9,6.2,Evening,2,1,3,3,4.8,0,Some days are great some are not
+M0219,Northpark,4,Technical,6.0,1.3,5.1,5.2,Afternoon,2,5,4,3,5.7,0,Tempo changes are confusing sometimes
+M0220,Eastbay,10,Mixed,1.4,8.9,5.9,7.7,Evening,1,2,1,2,4.0,0,Not enough rest time between routines
+M0221,Northpark,3,Technical,6.7,3.8,4.5,1.0,Afternoon,3,2,4,4,6.7,0,Some days are great some are not
+M0222,Northpark,9,Mixed,9.6,2.5,3.1,4.5,Evening,2,2,4,2,4.7,0,Interested in more beginner-friendly options
+M0223,Downtown,2,Expressive,6.4,5.4,6.9,4.0,Afternoon,5,1,1,1,4.6,0,Getting used to the pace slowly
+M0224,Westside,4,Mixed,8.4,2.4,4.7,5.4,Evening,4,4,1,4,4.3,0,Would like more variety in the sessions
+M0225,Downtown,6,Mixed,9.0,2.1,7.5,1.1,Afternoon,2,3,4,3,7.0,0,Love the energy in class!
+M0226,Downtown,2,Mixed,3.1,6.6,6.8,8.1,Evening,1,1,2,5,6.7,0,Class is okay but could be better
+M0227,Eastbay,8,Expressive,2.9,5.3,5.9,5.0,Evening,3,2,5,5,8.0,0,Instructor is amazing and motivating
+M0228,Westside,8,Mixed,6.5,3.7,6.1,6.1,Afternoon,4,1,5,1,6.8,0,Music could be adjusted slightly
+M0229,Eastbay,1,Expressive,4.7,6.8,7.8,5.9,Morning,2,1,2,2,6.6,0,Class is okay but could be better
+M0230,Northpark,12,Expressive,8.6,2.4,6.0,8.0,Morning,3,1,1,1,3.7,0,Music is way too loud during class
+M0231,Northpark,3,Expressive,9.1,2.2,7.7,1.8,Morning,3,4,4,5,8.7,0,Instructor explains everything clearly
+M0232,Westside,10,Mixed,4.2,5.2,4.9,5.7,Evening,3,5,5,3,6.1,0,Getting used to the pace slowly
+M0233,Northpark,9,Mixed,3.1,6.5,8.4,7.8,Morning,1,3,4,5,9.6,1,Too much repetition in the routine
+M0234,Westside,5,Mixed,8.0,2.7,4.7,5.3,Morning,5,4,2,4,4.8,0,Still figuring out if this style suits me
+M0235,Downtown,6,Expressive,3.5,5.7,5.7,3.6,Evening,3,4,4,5,7.6,0,Community feels very welcoming and warm
+M0236,Northpark,4,Expressive,8.4,1.0,9.3,4.3,Afternoon,4,5,2,5,7.3,0,Flow during capoeira sequences is incredible
+M0237,Downtown,10,Mixed,4.8,5.6,7.2,4.7,Afternoon,2,4,1,4,5.7,0,Class is okay but could be better
+M0238,Downtown,2,Technical,7.0,4.1,6.1,4.1,Morning,4,1,2,2,5.8,0,Music could be adjusted slightly
+M0239,Northpark,11,Technical,1.9,7.8,4.6,5.2,Evening,1,1,2,5,5.1,0,Tempo changes are confusing sometimes
+M0240,Downtown,8,Expressive,6.6,1.7,7.4,8.5,Evening,1,2,5,1,8.2,0,Love the energy in class!
+M0241,Eastbay,11,Technical,5.1,3.8,3.5,4.3,Evening,4,4,4,5,6.1,0,Class is okay but could be better
+M0242,Eastbay,6,Technical,6.3,4.0,7.8,4.5,Afternoon,5,2,5,1,7.8,0,The rhythm work really helps me connect
+M0243,Eastbay,5,Technical,2.5,7.8,6.7,6.4,Evening,1,3,3,4,7.0,0,Love the energy in class!
+M0244,Westside,9,Technical,7.6,2.8,4.9,5.2,Morning,1,1,2,5,5.9,0,Class is okay but could be better
+M0245,Downtown,1,Technical,8.8,2.0,4.1,2.8,Morning,4,3,3,4,4.7,0,Would like more variety in the sessions
+M0246,Eastbay,5,Mixed,3.0,7.0,7.6,5.4,Morning,1,5,5,4,8.2,0,Music selection is perfect
+M0247,Westside,6,Expressive,1.9,8.5,6.9,5.3,Afternoon,5,1,4,2,7.2,0,Music selection is perfect
+M0248,Eastbay,5,Expressive,1.2,8.7,8.4,7.5,Afternoon,5,3,5,5,9.0,0,Love the energy in class!
+M0249,Eastbay,6,Expressive,6.8,4.9,6.4,3.6,Afternoon,5,5,4,1,6.1,0,Music could be adjusted slightly
+M0250,Eastbay,6,Technical,6.5,5.6,5.4,7.5,Morning,2,3,4,1,4.7,0,Music could be adjusted slightly
+M0251,Downtown,7,Mixed,5.9,2.3,8.2,5.3,Afternoon,5,5,1,5,6.4,0,Still figuring out if this style suits me
+M0252,Westside,4,Mixed,3.1,6.5,4.9,3.3,Evening,5,5,2,2,5.0,0,Interested in more beginner-friendly options
+M0253,Eastbay,11,Technical,4.5,5.5,5.1,2.9,Afternoon,2,1,5,2,5.7,0,Some days are great some are not
+M0254,Westside,8,Expressive,6.4,3.2,6.2,9.4,Evening,3,2,4,2,6.7,0,Still figuring out if this style suits me
+M0255,Downtown,7,Mixed,5.5,7.2,7.2,5.2,Morning,1,5,5,1,7.1,0,The rhythm work really helps me connect
+M0256,Northpark,9,Mixed,9.9,1.0,8.1,7.4,Evening,5,5,5,4,8.5,0,The rhythm work really helps me connect
+M0257,Eastbay,7,Expressive,2.2,6.6,5.6,2.1,Afternoon,1,1,4,2,5.9,0,Getting used to the pace slowly
+M0258,Northpark,3,Expressive,7.3,3.6,7.4,10.0,Morning,4,2,3,1,5.7,0,Interested in more beginner-friendly options
+M0259,Northpark,3,Technical,4.6,5.8,3.9,7.3,Morning,1,4,2,1,3.3,1,Instructor moves too fast for beginners
+M0260,Downtown,8,Mixed,4.9,5.6,4.1,5.0,Evening,2,4,2,4,5.3,1,Instructor moves too fast for beginners
+M0261,Northpark,5,Technical,7.5,5.2,7.4,4.9,Evening,1,2,1,5,6.1,0,Still figuring out if this style suits me
+M0262,Eastbay,4,Mixed,7.2,3.3,8.0,7.0,Afternoon,1,3,1,5,7.5,0,Really improved my coordination
+M0263,Downtown,8,Expressive,9.9,1.0,6.9,6.9,Afternoon,1,1,1,2,5.0,0,Still figuring out if this style suits me
+M0264,Westside,6,Expressive,2.2,4.9,7.3,5.9,Evening,3,2,2,2,5.4,0,Class is okay but could be better
+M0265,Eastbay,2,Expressive,1.9,7.9,5.6,5.5,Evening,3,4,3,4,6.7,0,Some days are great some are not
+M0266,Northpark,4,Technical,7.5,4.5,6.4,6.6,Afternoon,4,5,2,2,5.5,1,Instructor moves too fast for beginners
+M0267,Northpark,12,Technical,6.2,3.7,8.4,2.0,Afternoon,2,4,2,4,6.2,0,Tempo changes are confusing sometimes
+M0268,Northpark,11,Technical,3.5,3.1,7.8,4.8,Morning,1,5,2,1,5.0,0,Music could be adjusted slightly
+M0269,Westside,4,Technical,1.7,7.6,7.6,2.2,Evening,1,1,2,2,5.7,0,Music could be adjusted slightly
+M0270,Downtown,6,Mixed,1.8,9.7,6.4,6.7,Afternoon,1,5,3,1,4.6,0,Interested in more beginner-friendly options
+M0271,Eastbay,6,Expressive,9.0,1.8,7.5,4.1,Evening,1,2,1,3,6.6,0,Tempo changes are confusing sometimes
+M0272,Eastbay,1,Technical,2.7,6.0,4.5,2.4,Afternoon,3,5,5,4,7.3,0,Flow during capoeira sequences is incredible
+M0273,Eastbay,8,Mixed,3.9,5.3,6.9,3.9,Afternoon,4,3,1,3,5.2,0,Some days are great some are not
+M0274,Eastbay,6,Mixed,3.0,6.4,5.8,5.8,Afternoon,5,2,1,2,4.1,1,Instructor moves too fast for beginners
+M0275,Westside,3,Mixed,4.2,4.8,4.9,5.1,Evening,2,1,5,1,5.6,0,Some days are great some are not
+M0276,Westside,9,Mixed,1.6,5.4,6.7,3.2,Evening,1,2,2,2,4.4,0,Some days are great some are not
+M0277,Northpark,2,Technical,5.7,5.4,1.9,2.1,Afternoon,4,3,3,3,3.1,0,Class feels too technical and stiff
+M0278,Northpark,11,Expressive,1.6,10.0,8.3,5.6,Evening,5,1,3,2,7.7,0,The rhythm work really helps me connect
+M0279,Northpark,8,Mixed,8.2,1.0,8.3,4.3,Afternoon,4,4,1,5,7.5,0,Instructor explains everything clearly
+M0280,Northpark,10,Expressive,3.1,8.8,8.7,5.0,Afternoon,3,3,5,3,8.3,0,Best workout I have ever had
+M0281,Eastbay,3,Technical,5.9,3.9,6.0,5.2,Morning,5,1,4,2,6.7,0,Some days are great some are not
+M0282,Westside,12,Mixed,8.9,2.9,8.6,6.4,Afternoon,4,5,2,1,6.2,0,Would like more variety in the sessions
+M0283,Westside,5,Technical,6.9,3.2,5.5,7.2,Morning,3,2,1,2,4.5,0,Some days are great some are not
+M0284,Downtown,6,Technical,5.8,4.4,4.2,5.8,Evening,4,1,3,1,3.6,0,Class feels too technical and stiff
+M0285,Northpark,10,Expressive,3.9,6.7,6.8,4.9,Afternoon,4,2,5,5,7.5,0,Love the energy in class!
+M0286,Downtown,6,Expressive,4.0,4.8,7.4,5.5,Evening,5,5,5,2,8.1,0,Music selection is perfect
+M0287,Westside,4,Expressive,7.0,4.8,8.3,4.8,Afternoon,3,1,1,5,5.8,0,Would like more variety in the sessions
+M0288,Westside,3,Technical,9.9,1.0,5.1,2.2,Evening,1,4,4,3,6.1,0,Getting used to the pace slowly
+M0289,Downtown,4,Mixed,7.0,2.4,5.4,7.7,Afternoon,2,3,3,1,4.7,1,Feel exhausted before class even ends
+M0290,Northpark,1,Technical,6.0,4.8,3.3,7.3,Morning,5,1,1,3,3.2,0,Music is way too loud during class
+M0291,Downtown,4,Technical,7.6,1.6,6.7,9.5,Afternoon,3,5,4,1,6.3,0,Tempo changes are confusing sometimes
+M0292,Downtown,1,Mixed,5.2,6.0,7.5,10.0,Morning,4,1,5,5,8.4,0,Great atmosphere overall
+M0293,Eastbay,12,Mixed,1.5,10.0,5.0,3.1,Evening,3,2,2,4,5.5,0,Would like more variety in the sessions
+M0294,Westside,1,Mixed,6.1,5.4,3.3,4.8,Afternoon,2,1,3,2,4.3,0,Music could be adjusted slightly
+M0295,Downtown,10,Mixed,9.6,1.0,6.0,10.0,Evening,2,4,3,5,7.8,0,Instructor is amazing and motivating
+M0296,Westside,6,Expressive,2.6,7.6,7.0,5.4,Morning,1,1,4,1,5.6,0,Some days are great some are not
+M0297,Northpark,5,Expressive,7.2,4.3,6.3,6.0,Morning,1,3,1,1,4.2,0,Tempo changes are confusing sometimes
+M0298,Downtown,11,Technical,2.8,5.2,5.2,2.5,Afternoon,2,1,5,1,6.2,0,Getting used to the pace slowly
+M0299,Northpark,4,Expressive,5.8,5.3,5.9,5.8,Evening,5,2,4,1,5.6,0,Class is okay but could be better
+M0300,Downtown,11,Expressive,1.9,9.1,4.9,9.4,Evening,5,1,2,2,3.8,0,Locker room is always overcrowded
+M0301,Downtown,3,Technical,5.1,3.1,6.8,8.1,Afternoon,4,4,2,3,6.4,0,Music could be adjusted slightly
+M0302,Westside,1,Mixed,7.8,3.5,6.2,4.3,Afternoon,1,5,2,4,6.1,0,Some days are great some are not
+M0303,Westside,6,Expressive,4.1,6.3,6.4,4.7,Morning,4,1,4,2,5.8,0,Would like more variety in the sessions
+M0304,Northpark,2,Technical,7.0,4.0,7.3,3.2,Evening,1,1,5,1,7.3,0,Best workout I have ever had
+M0305,Northpark,8,Technical,8.2,1.0,7.0,3.8,Evening,2,3,3,2,7.0,0,Really improved my coordination
+M0306,Eastbay,10,Expressive,9.3,1.0,7.8,1.7,Afternoon,5,4,1,5,6.5,0,Some days are great some are not
+M0307,Westside,5,Technical,3.1,4.3,4.1,5.3,Afternoon,5,5,3,1,4.2,0,Tempo changes are confusing sometimes
+M0308,Westside,7,Mixed,4.6,2.0,6.2,8.5,Morning,2,2,5,4,8.5,0,Really improved my coordination
+M0309,Northpark,10,Expressive,2.4,7.8,7.2,6.2,Evening,4,1,3,1,5.3,0,Tempo changes are confusing sometimes
+M0310,Downtown,12,Expressive,9.9,1.8,5.3,8.2,Morning,4,5,4,4,7.5,0,Flow during capoeira sequences is incredible
+M0311,Westside,2,Expressive,9.3,1.1,8.5,7.6,Evening,3,2,2,4,7.5,0,Instructor is amazing and motivating
+M0312,Downtown,8,Mixed,5.9,4.0,5.7,4.4,Morning,1,4,5,3,6.6,0,Music could be adjusted slightly
+M0313,Downtown,2,Technical,8.6,1.1,5.1,4.0,Evening,4,4,5,3,6.4,0,Music could be adjusted slightly
+M0314,Eastbay,4,Expressive,5.7,2.9,5.3,4.1,Evening,2,5,3,2,5.0,0,Tempo changes are confusing sometimes
+M0315,Eastbay,1,Expressive,6.6,3.1,5.7,2.1,Evening,4,2,4,2,5.1,0,Interested in more beginner-friendly options
+M0316,Northpark,5,Technical,1.8,8.8,7.6,5.6,Evening,5,4,3,4,7.3,0,Love the energy in class!
+M0317,Westside,9,Mixed,7.8,1.5,4.8,1.0,Evening,1,5,3,1,4.2,0,Would like more variety in the sessions
+M0318,Downtown,1,Mixed,2.1,9.0,5.6,6.7,Morning,3,4,5,5,7.9,0,Instructor is amazing and motivating
+M0319,Downtown,9,Expressive,8.4,1.9,4.7,5.6,Afternoon,1,4,3,5,5.5,0,Tempo changes are confusing sometimes
+M0320,Downtown,11,Mixed,8.0,2.5,8.1,6.4,Morning,5,4,2,1,6.1,0,Music could be adjusted slightly
+M0321,Westside,8,Mixed,7.4,3.9,9.6,7.6,Evening,5,3,3,1,7.4,0,Flow during capoeira sequences is incredible
+M0322,Northpark,6,Mixed,1.3,7.9,6.2,5.9,Afternoon,5,2,2,3,5.1,1,I feel lost during the combat sections
+M0323,Northpark,7,Mixed,3.7,7.3,6.9,8.8,Evening,5,5,5,5,8.6,0,The rhythm work really helps me connect
+M0324,Downtown,3,Expressive,3.4,6.0,8.0,6.7,Evening,2,5,4,4,8.0,0,Flow during capoeira sequences is incredible
+M0325,Eastbay,1,Expressive,4.2,6.3,7.6,4.0,Morning,3,2,2,2,6.5,0,Interested in more beginner-friendly options
+M0326,Northpark,5,Expressive,1.8,7.2,7.2,5.0,Morning,5,2,4,3,6.7,0,Would like more variety in the sessions
+M0327,Northpark,12,Mixed,9.4,1.0,6.0,1.0,Afternoon,5,2,4,5,7.3,0,Great atmosphere overall
+M0328,Northpark,12,Technical,6.0,4.1,7.1,3.7,Afternoon,4,2,2,1,4.8,0,Tempo changes are confusing sometimes
+M0329,Westside,2,Mixed,3.7,3.5,7.2,4.7,Morning,3,1,5,5,8.6,0,Great atmosphere overall
+M0330,Downtown,5,Mixed,4.6,5.0,3.9,6.6,Morning,1,5,1,4,4.4,0,Interested in more beginner-friendly options
+M0331,Westside,8,Technical,5.0,2.6,7.4,4.0,Evening,3,1,4,3,7.0,0,Music selection is perfect
+M0332,Northpark,11,Mixed,6.4,4.8,8.2,3.0,Evening,3,4,4,1,6.7,0,Some days are great some are not
+M0333,Downtown,9,Technical,5.6,6.0,4.5,1.7,Afternoon,3,4,5,4,7.3,0,Music selection is perfect
+M0334,Downtown,2,Technical,9.3,1.0,4.5,4.3,Afternoon,5,5,5,2,6.7,0,Would like more variety in the sessions
+M0335,Downtown,12,Mixed,5.5,5.1,3.4,9.4,Morning,5,4,3,3,4.9,1,Too much repetition in the routine
+M0336,Downtown,3,Technical,9.9,1.4,6.5,6.0,Evening,2,2,5,4,7.8,0,Instructor is amazing and motivating
+M0337,Eastbay,3,Mixed,8.7,2.7,4.7,7.4,Evening,1,1,4,4,6.2,0,Class is okay but could be better
+M0338,Northpark,1,Mixed,2.9,7.4,6.2,3.7,Morning,4,2,2,1,5.0,0,Still figuring out if this style suits me
+M0339,Westside,8,Expressive,9.4,1.7,8.4,2.4,Morning,3,4,1,2,5.7,0,Would like more variety in the sessions
+M0340,Downtown,6,Technical,2.0,7.0,3.8,3.1,Evening,1,1,3,4,4.5,0,Would like more variety in the sessions
+M0341,Westside,12,Technical,8.4,1.7,2.6,5.3,Evening,1,2,2,3,4.0,0,Class feels too technical and stiff
+M0342,Westside,8,Expressive,4.4,4.9,7.1,1.5,Morning,2,5,1,4,5.3,0,Still figuring out if this style suits me
+M0343,Downtown,11,Mixed,8.9,1.0,5.0,3.5,Evening,4,2,1,5,4.4,0,Tempo changes are confusing sometimes
+M0344,Westside,9,Expressive,8.8,1.3,7.5,4.3,Afternoon,3,4,1,3,4.7,0,Tempo changes are confusing sometimes
+M0345,Westside,5,Technical,8.3,2.2,4.6,2.9,Afternoon,4,1,2,3,4.6,0,Interested in more beginner-friendly options
+M0346,Northpark,12,Expressive,8.1,3.6,7.8,1.3,Evening,2,5,3,4,6.8,0,Some days are great some are not
+M0347,Northpark,3,Expressive,3.7,6.7,6.6,6.1,Evening,5,1,3,1,4.3,0,Tempo changes are confusing sometimes
+M0348,Downtown,5,Mixed,1.7,9.3,9.6,5.6,Afternoon,1,5,1,3,6.4,0,Getting used to the pace slowly
+M0349,Westside,5,Technical,4.6,6.4,4.4,7.1,Evening,3,1,2,5,5.2,0,Interested in more beginner-friendly options
+M0350,Northpark,5,Mixed,2.6,10.0,4.6,3.3,Afternoon,5,4,1,1,3.2,0,Music is way too loud during class
+M0351,Westside,3,Expressive,7.3,1.0,7.2,7.0,Evening,2,5,5,1,6.7,0,Class is okay but could be better
+M0352,Eastbay,11,Mixed,4.1,4.9,3.9,8.6,Afternoon,4,3,3,1,5.1,0,Would like more variety in the sessions
+M0353,Northpark,10,Technical,9.8,2.4,4.7,6.0,Evening,1,1,4,3,6.2,0,Interested in more beginner-friendly options
+M0354,Downtown,4,Expressive,6.8,2.7,5.7,4.3,Evening,3,1,1,1,3.6,0,Class feels too technical and stiff
+M0355,Downtown,9,Mixed,8.4,2.9,5.4,5.8,Morning,5,2,5,4,7.3,0,Instructor is amazing and motivating
+M0356,Northpark,10,Technical,2.2,8.1,5.1,4.2,Evening,5,5,3,1,5.5,0,Still figuring out if this style suits me
+M0357,Downtown,9,Mixed,8.8,4.4,6.4,3.9,Evening,1,3,2,5,6.9,0,Class is okay but could be better
+M0358,Northpark,2,Expressive,9.3,1.0,7.6,6.9,Evening,4,4,3,2,5.7,0,Interested in more beginner-friendly options
+M0359,Eastbay,8,Technical,5.4,6.4,7.1,5.2,Morning,2,2,2,5,6.3,0,Some days are great some are not
+M0360,Northpark,8,Technical,6.5,6.1,6.0,7.9,Evening,4,3,2,3,5.0,0,Would like more variety in the sessions
+M0361,Westside,7,Mixed,7.9,1.0,5.4,4.6,Evening,4,5,1,1,3.5,0,Not enough rest time between routines
+M0362,Northpark,8,Technical,2.6,8.6,4.0,4.8,Afternoon,4,3,1,1,2.7,0,Too much repetition in the routine
+M0363,Westside,3,Expressive,5.5,3.1,8.6,4.4,Evening,1,1,3,4,7.7,0,Music selection is perfect
+M0364,Westside,6,Technical,4.6,5.4,5.6,3.3,Morning,1,1,5,1,6.6,0,Would like more variety in the sessions
+M0365,Eastbay,1,Expressive,2.3,7.3,5.9,7.1,Morning,2,2,3,5,7.2,0,The rhythm work really helps me connect
+M0366,Westside,7,Technical,4.3,2.1,6.2,9.9,Afternoon,4,5,4,3,6.5,0,Would like more variety in the sessions
+M0367,Eastbay,1,Mixed,1.6,9.0,4.7,4.7,Afternoon,1,5,2,2,3.5,0,Scheduling is very inconvenient
+M0368,Eastbay,9,Mixed,1.2,9.0,4.9,4.1,Evening,2,3,2,1,3.5,0,Floor is slippery and dangerous
+M0369,Downtown,1,Mixed,2.2,10.0,5.5,4.0,Morning,2,2,1,2,3.9,0,Not enough rest time between routines
+M0370,Downtown,1,Mixed,9.7,1.2,5.5,4.1,Evening,4,5,5,1,5.5,0,Music could be adjusted slightly
+M0371,Downtown,7,Technical,5.9,7.5,4.0,8.8,Morning,3,1,1,3,4.4,0,Some days are great some are not
+M0372,Downtown,2,Mixed,9.7,1.0,6.7,4.1,Morning,4,3,4,5,7.2,0,Great atmosphere overall
+M0373,Downtown,5,Technical,4.9,4.9,6.1,4.3,Morning,3,4,3,3,6.4,0,Tempo changes are confusing sometimes
+M0374,Northpark,8,Technical,3.8,5.9,7.5,3.0,Afternoon,2,1,3,2,5.5,0,Interested in more beginner-friendly options
+M0375,Downtown,8,Technical,5.6,3.7,7.9,6.1,Evening,1,2,5,1,7.7,0,Community feels very welcoming and warm
+M0376,Westside,3,Expressive,5.0,1.7,6.9,5.4,Evening,5,5,1,2,4.8,0,Class is okay but could be better
+M0377,Eastbay,7,Mixed,2.0,7.7,7.6,3.2,Evening,2,1,1,5,7.2,0,Best workout I have ever had
+M0378,Downtown,3,Expressive,6.8,1.0,8.4,3.7,Morning,1,4,4,3,7.2,0,Instructor explains everything clearly
+M0379,Eastbay,6,Expressive,2.9,7.8,8.0,8.6,Afternoon,2,4,3,2,6.3,0,Still figuring out if this style suits me
+M0380,Downtown,6,Technical,6.6,1.5,5.1,5.6,Afternoon,4,2,1,2,3.8,1,I feel lost during the combat sections
+M0381,Downtown,3,Mixed,6.9,1.8,7.4,5.7,Afternoon,3,1,5,5,8.6,0,Music selection is perfect
+M0382,Northpark,7,Expressive,2.4,6.6,5.3,5.7,Morning,2,3,3,1,4.7,0,Getting used to the pace slowly
+M0383,Northpark,3,Expressive,1.6,8.1,3.8,8.3,Evening,1,1,4,2,4.9,0,Some days are great some are not
+M0384,Eastbay,8,Technical,8.0,2.0,5.3,3.4,Afternoon,4,4,5,5,7.5,0,Great atmosphere overall
+M0385,Northpark,10,Mixed,5.1,6.5,9.5,4.7,Evening,5,2,2,1,5.3,0,Music could be adjusted slightly
+M0386,Eastbay,4,Expressive,1.5,7.6,8.2,5.2,Afternoon,4,2,4,1,7.4,0,The rhythm work really helps me connect
+M0387,Downtown,1,Technical,10.0,1.0,5.1,2.1,Morning,3,3,5,3,8.2,0,Flow during capoeira sequences is incredible
+M0388,Downtown,4,Technical,1.5,10.0,7.0,3.7,Evening,4,2,1,5,6.2,0,Some days are great some are not
+M0389,Northpark,7,Expressive,7.3,3.3,8.3,7.6,Morning,5,2,2,1,5.2,0,Interested in more beginner-friendly options
+M0390,Eastbay,11,Expressive,9.9,1.0,7.6,7.0,Evening,1,2,4,3,6.9,0,Music could be adjusted slightly
+M0391,Eastbay,4,Technical,3.2,5.6,5.4,7.4,Evening,2,2,1,4,5.2,1,Floor is slippery and dangerous
+M0392,Westside,6,Mixed,2.3,7.4,4.3,4.3,Morning,3,2,2,5,5.5,0,Tempo changes are confusing sometimes
+M0393,Westside,9,Technical,2.1,6.6,5.4,4.6,Evening,5,4,3,4,6.0,0,Class is okay but could be better
+M0394,Northpark,1,Expressive,3.7,6.7,6.7,1.9,Afternoon,3,1,1,1,4.7,0,Would like more variety in the sessions
+M0395,Westside,5,Mixed,1.9,8.3,4.9,7.4,Morning,4,5,5,5,6.4,0,Class is okay but could be better
+M0396,Eastbay,11,Expressive,7.2,1.0,5.2,7.7,Evening,3,2,4,3,6.6,0,Music could be adjusted slightly
+M0397,Eastbay,7,Expressive,1.6,8.4,8.2,7.7,Afternoon,5,5,2,1,5.8,0,Would like more variety in the sessions
+M0398,Westside,1,Expressive,5.6,6.0,8.4,8.7,Evening,2,5,1,5,6.3,0,Class is okay but could be better
+M0399,Northpark,4,Technical,10.0,1.0,3.0,6.3,Evening,2,4,3,5,4.6,0,Would like more variety in the sessions
+M0400,Northpark,6,Mixed,8.3,1.0,7.3,8.6,Evening,3,2,4,4,7.7,0,Flow during capoeira sequences is incredible
+M0401,Downtown,2,Expressive,6.5,1.4,3.2,5.1,Afternoon,1,5,4,1,5.1,0,Some days are great some are not
+M0402,Eastbay,10,Mixed,3.8,3.4,8.6,2.0,Afternoon,3,2,1,3,6.0,1,I feel lost during the combat sections
+M0403,Westside,5,Technical,6.6,4.6,4.3,7.2,Evening,4,3,3,3,4.7,0,Interested in more beginner-friendly options
+M0404,Eastbay,11,Technical,5.7,4.0,5.6,1.9,Morning,2,3,2,1,4.5,0,Still figuring out if this style suits me
+M0405,Westside,10,Technical,4.8,6.4,3.3,5.8,Afternoon,2,3,1,1,3.6,0,Music is way too loud during class
+M0406,Eastbay,1,Expressive,2.2,10.0,9.1,7.4,Afternoon,2,5,2,2,6.8,0,Still figuring out if this style suits me
+M0407,Westside,6,Expressive,9.0,2.4,6.6,6.1,Morning,1,3,4,4,7.6,0,Great atmosphere overall
+M0408,Downtown,6,Mixed,5.0,4.2,7.1,10.0,Afternoon,1,4,2,1,5.8,0,Music could be adjusted slightly
+M0409,Eastbay,4,Expressive,2.8,7.4,7.3,1.6,Evening,5,4,3,1,6.1,0,Getting used to the pace slowly
+M0410,Downtown,8,Mixed,4.3,4.8,5.5,5.3,Evening,3,5,5,2,6.2,0,Still figuring out if this style suits me
+M0411,Westside,4,Technical,4.7,4.2,6.7,5.5,Morning,3,2,3,2,5.1,0,Still figuring out if this style suits me
+M0412,Eastbay,8,Mixed,8.4,2.1,8.4,2.8,Morning,4,1,2,5,6.9,0,Tempo changes are confusing sometimes
+M0413,Eastbay,8,Mixed,7.6,1.2,7.3,3.2,Afternoon,2,2,1,3,4.9,0,Interested in more beginner-friendly options
+M0414,Northpark,5,Mixed,7.9,1.0,5.4,3.8,Evening,1,2,4,4,7.0,0,Instructor is amazing and motivating
+M0415,Northpark,4,Mixed,1.1,7.6,7.8,3.3,Morning,4,2,5,5,9.3,0,Love the energy in class!
+M0416,Westside,12,Mixed,4.7,4.8,5.7,5.3,Evening,4,2,1,1,3.9,0,I feel lost during the combat sections
+M0417,Downtown,2,Expressive,5.3,7.0,7.8,4.3,Morning,1,1,1,2,4.7,0,Would like more variety in the sessions
+M0418,Westside,11,Technical,1.2,8.1,7.2,6.1,Evening,3,3,3,3,7.5,0,Love the energy in class!
+M0419,Northpark,3,Technical,3.3,7.5,5.5,6.8,Afternoon,2,2,2,5,5.7,0,Music could be adjusted slightly
+M0420,Northpark,3,Mixed,7.8,1.9,5.3,6.7,Evening,3,4,3,3,6.0,0,Would like more variety in the sessions
+M0421,Northpark,4,Expressive,2.2,9.6,4.9,4.7,Morning,4,5,2,2,4.5,0,Still figuring out if this style suits me
+M0422,Northpark,4,Mixed,5.8,5.9,7.2,6.1,Evening,2,5,3,5,7.5,0,Really improved my coordination
+M0423,Downtown,10,Expressive,2.9,8.9,7.3,7.6,Morning,5,4,1,5,6.5,0,Tempo changes are confusing sometimes
+M0424,Westside,11,Technical,1.1,6.3,3.7,6.4,Evening,4,2,4,3,5.1,0,Still figuring out if this style suits me
+M0425,Downtown,11,Technical,3.2,7.1,4.2,9.2,Evening,3,1,2,2,4.8,0,Some days are great some are not
+M0426,Westside,5,Expressive,9.8,1.3,7.0,7.5,Morning,3,3,5,1,6.1,0,Tempo changes are confusing sometimes
+M0427,Westside,4,Expressive,8.2,2.4,7.9,8.9,Evening,3,5,5,5,8.4,0,Flow during capoeira sequences is incredible
+M0428,Eastbay,11,Technical,9.6,1.4,6.2,1.0,Afternoon,1,3,1,1,4.7,0,Getting used to the pace slowly
+M0429,Westside,10,Expressive,5.4,4.7,6.4,5.7,Morning,4,1,3,2,6.1,0,Class is okay but could be better
+M0430,Downtown,8,Technical,2.0,6.9,6.0,4.9,Afternoon,2,5,3,5,8.1,0,Love the energy in class!
+M0431,Downtown,6,Expressive,5.9,1.6,5.8,5.3,Morning,3,3,1,5,5.5,0,Getting used to the pace slowly
+M0432,Northpark,6,Technical,5.1,3.9,6.4,3.9,Evening,3,1,5,1,7.5,0,Community feels very welcoming and warm
+M0433,Northpark,8,Mixed,8.6,5.4,8.6,6.3,Evening,1,3,5,4,8.0,0,Flow during capoeira sequences is incredible
+M0434,Downtown,7,Technical,1.9,7.4,3.3,1.9,Morning,2,2,3,1,3.1,0,Instructor moves too fast for beginners
+M0435,Downtown,10,Expressive,5.4,1.7,8.8,6.3,Afternoon,4,1,2,1,6.4,0,Some days are great some are not
+M0436,Northpark,11,Technical,2.4,8.7,5.2,4.0,Evening,5,3,4,4,5.7,0,Music could be adjusted slightly
+M0437,Downtown,12,Technical,3.9,7.4,7.5,4.5,Evening,1,2,2,2,5.7,0,Getting used to the pace slowly
+M0438,Eastbay,10,Expressive,7.6,4.3,7.8,6.4,Afternoon,4,2,5,2,8.3,0,Love the energy in class!
+M0439,Northpark,8,Expressive,5.3,5.4,5.7,5.7,Evening,5,1,2,5,6.3,0,Still figuring out if this style suits me
+M0440,Downtown,2,Expressive,4.4,6.9,7.7,7.6,Afternoon,3,4,4,3,7.5,0,Really improved my coordination
+M0441,Downtown,9,Technical,4.6,8.2,5.3,3.6,Afternoon,3,5,2,3,4.8,0,Interested in more beginner-friendly options
+M0442,Eastbay,1,Expressive,5.1,3.8,6.3,5.3,Evening,2,1,2,5,6.5,0,Some days are great some are not
+M0443,Westside,8,Mixed,8.1,1.0,5.8,7.3,Afternoon,5,2,2,3,5.6,0,Tempo changes are confusing sometimes
+M0444,Westside,12,Mixed,9.0,1.0,5.4,6.2,Afternoon,3,2,2,1,4.0,0,Floor is slippery and dangerous
+M0445,Eastbay,11,Technical,9.6,1.0,5.6,6.4,Afternoon,3,1,1,1,4.0,0,Scheduling is very inconvenient
+M0446,Eastbay,12,Expressive,8.1,4.1,6.5,7.7,Evening,2,4,5,4,8.4,0,Really improved my coordination
+M0447,Eastbay,12,Technical,3.8,7.0,8.7,4.7,Evening,4,5,4,4,8.2,0,Really improved my coordination
+M0448,Northpark,4,Technical,7.2,3.5,4.2,4.3,Afternoon,3,3,5,5,7.1,0,Really improved my coordination
+M0449,Westside,4,Mixed,4.9,2.4,6.2,6.7,Afternoon,1,1,1,5,5.9,0,Would like more variety in the sessions
+M0450,Downtown,5,Technical,3.3,5.7,4.1,5.2,Afternoon,1,5,1,5,4.9,1,Feel exhausted before class even ends
+M0451,Northpark,8,Expressive,8.6,1.0,9.0,7.7,Afternoon,4,5,1,1,5.9,0,Some days are great some are not
+M0452,Northpark,5,Expressive,1.3,10.0,5.8,6.2,Morning,5,2,1,3,4.2,0,Would like more variety in the sessions
+M0453,Westside,8,Mixed,9.1,3.3,3.7,4.3,Evening,2,3,2,5,4.8,0,Tempo changes are confusing sometimes
+M0454,Eastbay,10,Expressive,5.2,6.0,6.6,6.2,Afternoon,1,1,5,5,8.1,0,Music selection is perfect
+M0455,Downtown,1,Technical,6.7,1.8,5.7,3.7,Afternoon,1,2,3,1,4.6,0,Still figuring out if this style suits me
+M0456,Westside,12,Technical,6.9,5.3,6.8,7.4,Morning,4,2,4,1,5.3,0,Tempo changes are confusing sometimes
+M0457,Downtown,10,Expressive,9.1,1.0,4.9,2.7,Morning,5,4,1,1,1.8,0,Too much repetition in the routine
+M0458,Westside,9,Technical,6.7,1.5,4.1,7.9,Evening,5,5,5,3,6.8,0,Would like more variety in the sessions
+M0459,Downtown,6,Expressive,6.5,2.1,9.0,6.1,Afternoon,4,1,1,5,6.3,0,Would like more variety in the sessions
+M0460,Downtown,3,Technical,1.6,7.8,4.6,5.2,Morning,1,1,1,2,4.5,0,Some days are great some are not
+M0461,Downtown,8,Technical,5.7,4.4,8.1,7.0,Afternoon,2,1,1,2,5.8,0,Some days are great some are not
+M0462,Northpark,9,Expressive,2.4,7.4,9.0,6.5,Afternoon,1,2,1,5,6.9,0,Interested in more beginner-friendly options
+M0463,Northpark,6,Technical,7.6,1.0,2.9,8.2,Morning,5,4,1,5,4.4,0,Class is okay but could be better
+M0464,Northpark,11,Expressive,5.6,6.2,5.3,8.1,Afternoon,1,3,4,5,7.3,0,Really improved my coordination
+M0465,Eastbay,7,Expressive,7.1,2.7,6.4,6.2,Afternoon,2,2,5,5,7.6,0,Instructor is amazing and motivating
+M0466,Westside,1,Mixed,1.4,7.5,6.3,3.8,Afternoon,3,3,1,3,4.9,0,Some days are great some are not
+M0467,Downtown,5,Technical,1.8,9.9,4.9,4.4,Afternoon,1,4,1,2,3.4,0,Instructor moves too fast for beginners
+M0468,Eastbay,5,Technical,7.4,1.0,4.4,5.4,Afternoon,4,5,1,4,4.7,0,Class is okay but could be better
+M0469,Downtown,10,Technical,1.6,6.0,7.4,7.7,Evening,3,1,1,2,4.7,0,Getting used to the pace slowly
+M0470,Eastbay,4,Expressive,1.6,10.0,5.5,4.6,Afternoon,4,3,2,2,4.7,0,Would like more variety in the sessions
+M0471,Downtown,6,Mixed,1.1,10.0,8.0,4.8,Afternoon,4,2,2,1,5.5,0,Getting used to the pace slowly
+M0472,Eastbay,7,Technical,9.6,1.0,4.9,9.2,Morning,4,3,3,5,6.3,0,Still figuring out if this style suits me
+M0473,Downtown,9,Mixed,7.6,2.3,5.1,5.3,Afternoon,1,5,1,5,6.0,0,Would like more variety in the sessions
+M0474,Eastbay,1,Technical,4.2,4.1,5.4,4.2,Evening,5,1,3,5,6.4,0,Some days are great some are not
+M0475,Westside,6,Expressive,3.7,6.3,7.0,7.1,Morning,3,3,4,1,6.9,0,Interested in more beginner-friendly options
+M0476,Eastbay,7,Mixed,4.1,5.2,4.9,5.4,Evening,2,5,3,3,5.7,0,Would like more variety in the sessions
+M0477,Downtown,3,Mixed,8.0,1.8,5.8,2.7,Morning,5,2,5,3,7.8,0,Instructor explains everything clearly
+M0478,Northpark,8,Mixed,7.0,3.6,6.5,7.6,Afternoon,1,4,2,4,5.9,0,Class is okay but could be better
+M0479,Eastbay,5,Mixed,2.7,5.7,9.3,4.0,Evening,4,2,2,3,7.4,0,Community feels very welcoming and warm
+M0480,Westside,9,Technical,2.6,6.9,5.9,5.6,Afternoon,2,1,1,3,4.7,0,Some days are great some are not
+M0481,Northpark,5,Mixed,1.9,5.4,5.9,5.4,Afternoon,3,2,1,5,4.1,1,Too much repetition in the routine
+M0482,Northpark,9,Technical,6.9,2.6,6.0,6.0,Morning,5,2,4,2,5.7,0,Music could be adjusted slightly
+M0483,Westside,10,Mixed,7.9,2.0,8.1,1.1,Evening,5,2,4,3,7.9,0,Instructor is amazing and motivating
+M0484,Northpark,4,Expressive,3.4,6.9,5.8,4.8,Morning,2,2,5,3,7.4,0,The rhythm work really helps me connect
+M0485,Northpark,9,Mixed,1.2,9.2,5.1,7.7,Evening,1,1,1,1,2.9,0,Scheduling is very inconvenient
+M0486,Eastbay,5,Expressive,1.7,9.7,6.7,8.0,Morning,3,5,1,4,5.7,1,Music is way too loud during class
+M0487,Downtown,10,Expressive,9.7,1.0,8.7,3.5,Evening,2,3,4,1,7.4,0,The rhythm work really helps me connect
+M0488,Downtown,9,Expressive,3.7,4.1,8.5,7.3,Afternoon,4,4,4,5,8.6,0,Really improved my coordination
+M0489,Eastbay,3,Mixed,7.9,2.9,4.1,4.0,Evening,3,3,4,2,5.6,0,Class is okay but could be better
+M0490,Eastbay,4,Technical,6.6,1.0,5.9,4.8,Afternoon,5,3,2,4,6.0,0,Still figuring out if this style suits me
+M0491,Westside,9,Technical,4.4,5.9,6.0,4.9,Evening,2,4,3,1,5.2,0,Still figuring out if this style suits me
+M0492,Northpark,10,Technical,2.9,5.3,6.8,5.7,Morning,5,1,3,3,6.1,0,Tempo changes are confusing sometimes
+M0493,Downtown,11,Technical,2.1,10.0,3.5,7.5,Morning,5,4,1,3,4.1,0,Class is okay but could be better
+M0494,Downtown,6,Mixed,6.5,3.9,7.7,6.0,Afternoon,5,1,2,4,6.9,1,Not enough rest time between routines
+M0495,Westside,2,Technical,8.0,1.7,6.5,5.2,Morning,1,3,4,3,6.2,0,Getting used to the pace slowly
+M0496,Westside,7,Mixed,6.8,5.0,4.2,7.4,Morning,5,1,1,1,3.2,0,I feel lost during the combat sections
+M0497,Northpark,2,Technical,5.8,2.6,4.2,3.9,Evening,4,5,2,1,3.1,0,Not enough rest time between routines
+M0498,Downtown,11,Technical,1.4,7.3,3.0,5.3,Evening,4,4,5,3,5.2,0,Tempo changes are confusing sometimes
+M0499,Eastbay,2,Mixed,9.7,1.0,7.8,7.5,Afternoon,3,5,2,3,6.0,0,Getting used to the pace slowly
+M0500,Eastbay,11,Expressive,8.2,1.0,7.2,6.6,Evening,5,3,1,5,6.2,0,Music could be adjusted slightly
