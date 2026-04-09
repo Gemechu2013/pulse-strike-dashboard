@@ -1,8 +1,9 @@
 ﻿streamlit
 pandas
 numpy
+plotly
+scikit-learn
+textblob
+scipy
 matplotlib
 seaborn
-textblob
-scikit-learn
-scipy
